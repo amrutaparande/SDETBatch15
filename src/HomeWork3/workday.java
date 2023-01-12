@@ -13,7 +13,7 @@ public class workday {
         while (workday) {
             System.out.println("I need a day off");
             if (day == 5) {
-                workday = false ;
+                workday = false  ;
                 System.out.println("I do not need a day off");
 
             }
